@@ -19,14 +19,14 @@ import json
 ######################## USER SPECIFIC INFORMATION ######################
 
 # Netatmo authentication
-client_id     = '...' 
-client_secret = '...' 
-username      = '...' 
-password      = '...' 
+client_id     = '5789c1f869f740496f8b479c' 
+client_secret = 'vP99i1St07uCR9B57NO44QMnjn7G9IqHOS' 
+username      = 'simonegelain@gmail.com' 
+password      = 'Incontro1' 
 
 # LaMetric authentication
-access_token  = '...'
-app_id        = '...'
+access_token  = 'MmYyNzA3ZGJiZGU4OTNlMTkyMDdmOWNhNDBiOWJhMzBmYjQ1N2UzNWFhMTE4NTY1MmE2NTk2NGMyNWMyNTk2YQ=='
+app_id        = '4834d508cf2b0efe3157ccebcd0af004/1'
 
 #########################################################################
 
